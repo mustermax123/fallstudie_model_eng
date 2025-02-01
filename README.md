@@ -16,8 +16,8 @@ Hier wird das endgültige Modell angewendet, das den besten Zahlungsdienstleiste
 
 Das Modell besteht aus zwei Komponenten:
 
-Vorhersagemodell: Der beste Klassifikator wird verwendet, um die Erfolgswahrscheinlichkeit für eine neue Instanz aus unbekannten Testdaten vorherzusagen.
+  Vorhersagemodell: Der beste Klassifikator wird verwendet, um die Erfolgswahrscheinlichkeit für eine neue Instanz aus unbekannten Testdaten vorherzusagen.
 
-Kostenoptimierung: Wenn die Erfolgswahrscheinlichkeit eine flexible Schwelle überschreitet, wird der kostengünstigste Zahlungsdienstleister ausgewählt.
+  Kostenoptimierung: Wenn die Erfolgswahrscheinlichkeit eine flexible Schwelle überschreitet, wird der kostengünstigste Zahlungsdienstleister ausgewählt.
 
 Zusätzlich berechnet und visualisiert dieses Skript die Feature Importance. Die wichtigsten Merkmale werden detailliert analysiert und ausgegeben, um die Entscheidungsfindung des Modells nachvollziehbar zu machen.
