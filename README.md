@@ -2,16 +2,16 @@ Dieses Repository dient der Bearbeitung der Fallstudie aus Aufgabenstellung 1: E
 
 Die Skripte dieses Repositories sind synchron zur schriftlichen Ausarbeitung aufgebaut.
 
-1. exploratory_analysis
+1. exploratory_analysis:
 Dieses Skript führt die explorative Datenanalyse aus, wie sie in der schriftlichen Arbeit beschrieben ist. Ziel ist es, einen Überblick über die Daten zu erhalten, Verteilungen zu analysieren und erste Muster zu erkennen.
 
-2. feature_eng
+2. feature_eng:
 Hier werden wiederholte Transaktionen modelliert und untersucht.
 
-3. model_development
+3. model_development:
 Dieses Skript beinhaltet das Training und die Evaluation verschiedener Machine-Learning-Modelle, die für die Vorhersage der Erfolgswahrscheinlichkeit von Transaktionen genutzt werden.
 
-4. apply_model_with_feature_importance
+4. apply_model_with_feature_importance:
 Hier wird das endgültige Modell angewendet, das den besten Zahlungsdienstleister für eine Transaktion vorhersagt.
 
 Das Modell besteht aus zwei Komponenten:
