@@ -21,3 +21,5 @@ Das Modell besteht aus zwei Komponenten:
   -Kostenoptimierung: Wenn die Erfolgswahrscheinlichkeit eine flexible Schwelle überschreitet, wird der kostengünstigste Zahlungsdienstleister ausgewählt.
 
 Zusätzlich berechnet und visualisiert dieses Skript die Feature Importance. Die wichtigsten Merkmale werden detailliert analysiert und ausgegeben, um die Entscheidungsfindung des Modells nachvollziehbar zu machen.
+
+Um die schriftliche Arbeit kombiniert mit den Skripten einfach und schnell nachvollziehen zu können, sind die Skripte direkt ausführbar, wenn sie als main-Datei ausgeführt werden.
